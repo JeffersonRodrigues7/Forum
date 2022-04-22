@@ -1,0 +1,7 @@
+.dropdown-toggle::after {
+    display: none;
+}
+
+#login_dropdown{
+    margin-right: 10px;
+}
